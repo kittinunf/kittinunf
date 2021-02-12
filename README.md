@@ -1,4 +1,4 @@
-### Hello everyone, I'm Kittinun :cat:
+### Hello everyone, I'm Kittinun :)
 
 <!--
 **kittinunf/kittinunf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
